@@ -1,11 +1,19 @@
-# PCB-GitHub-Template
-Start with a picture, followed by a brief description.
+# ToqueCAN
+![ToqueCAN Logo](./Images/Toquecan_Logo.svg)
 
-### Features
+[![ToqueCAN Video](https://img.youtube.com/vi/K55Uk8NYE5w/0.jpg)](.)
 
-Only add if there are features worth explaining/listing in a table.
+ToqueCAN is a Raspberry Pi toque with:
+- 2x CAN Bus Outs
+- 3-port USB hub (+1x used for CAN)
+- 5V 5A regulator for powering your Raspberry Pi
 
-## Purchasing a XXX
+## ToqueCAN Flex
+![ToqueCAN Flex](./Images/Toquecan_Flex.png)
+
+A simple flex PCB with a USB A male connector. Soldered to the ToqueCAN, routed under the ToqueCAN and between the IO stacks of the Pi and connected to the Pi. 
+
+## Purchasing a ToqueCAN
 ### United States
 - [Isik's Tech](.) (Me)
 
@@ -14,29 +22,17 @@ This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed 
 You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/).
 <br>
 
-## Instructions
+## Purchasing a ToqueCAN Flex
+### United States
+- [Isik's Tech](.) (Me)
 
-...
+This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
-## Versions
+You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/).
+<br>
 
-Only add if there are multiple MAJOR versions, like KUSBA V1 and V2.
-
-
-
-## Folders
-
-Delete this.
-
-| Folder | For |
-| ------ | --- |
-| CAD | CAD models of the PCB and mounts |
-| Docs | Guides, extra docs |
-| EasyEDA-Source | Source .json files, in version folders |
-| Firmware | Klipper .cfg files, if multiple options available, in sub folders |
-| Gerbers | Gerbers in `Gerbers.zip`, BOM in `BOM.csv`, CPL in `PNP.csv`, in version folders under `Old-Versions` except latest which is in `Latest-Tested-Version`, add a `README.md` with the changelog |
-| Images | Images for docs |
-| Mounts | Mounts for the PCB, add a `README.md` |
+## [Instructions](./Docs/ToqueCAN_Manual.pdf)
+Click the above link to download the ToqueCAN manual (PDF).
 
 ## YouTube
 
