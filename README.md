@@ -1,5 +1,4 @@
-# ToqueCAN
-![ToqueCAN Logo](./Images/Toquecan_Logo.svg)
+![ToqueCAN Logo](./Images/ToqueCAN_Logo.svg)
 
 [![ToqueCAN Video](https://img.youtube.com/vi/K55Uk8NYE5w/0.jpg)](.)
 
