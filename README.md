@@ -1,4 +1,4 @@
-# ![ToqueCAN Logo](./Images/ToqueCAN_Logo.svg)
+# <img src="./Images/ToqueCAN_Logo.svg" width="600">
 
 [![ToqueCAN Video](https://img.youtube.com/vi/K55Uk8NYE5w/0.jpg)](.)
 
