@@ -2,14 +2,22 @@
 
 [![ToqueCAN Video](https://img.youtube.com/vi/K55Uk8NYE5w/0.jpg)](.)
 
-ToqueCAN is a Raspberry Pi toque with:
-- 2x CAN Bus Outs
-- 3-port USB hub (+1x used for CAN)
-- 5V 5A regulator for powering your Raspberry Pi
+ToqueCAN is an open-source Raspberry Pi toque* with:
+- A CAN transceiver with 2x CAN connectors
+- 3 port USB hub
+- 24V to 5V 5A regulator for powering the Pi and USB devices
+- Pi cooling fan (30mm or 40mm) mount with PWM speed control
+- Neopixel control
+- GPIO passthrough
+- Supports Klipper and Candlelight firmwares
+
+Designed for 3D printers with many CAN devices, 24V power and small electronics chambers.
+
+*Almost like a hat, no EEPROM.
 
 ## Purchasing a ToqueCAN
 ### United States
-- [Isik's Tech](.) (Me)
+- [Isik's Tech](https://store.isiks.tech/products/toquecan) (Me)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
