@@ -1,5 +1,6 @@
 # <img src="./Images/ToqueCAN_Logo.svg" width="600">
 
+![ToqueCAN PCB](./Images/ToqueCAN_PCB.jpg)
 
 ToqueCAN is an open-source Raspberry Pi toque* with:
 - A CAN transceiver with 2x CAN connectors
