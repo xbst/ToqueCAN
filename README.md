@@ -24,7 +24,7 @@ This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed 
 You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/).
 <br>
 
-## [Instructions](./Docs/ToqueCAN_Manual.pdf)
+## [Instructions](./Docs/ToqueCAN-Manual.pdf)
 Click the above link to download the ToqueCAN manual (PDF).
 
 ## YouTube
