@@ -15,6 +15,9 @@ Designed for 3D printers with many CAN devices, 24V power and small electronics 
 
 *Almost like a hat, no EEPROM.
 
+## YouTube Video
+[![YouTube Video](https://img.youtube.com/vi/QP4bZ6_RnH0/0.jpg)](https://youtu.be/QP4bZ6_RnH0)
+
 ## Purchasing a ToqueCAN
 ### United States
 - [Isik's Tech](https://store.isiks.tech/products/toquecan) (Me)
