@@ -21,6 +21,8 @@ Designed for 3D printers with many CAN devices, 24V power and small electronics 
 ## Purchasing a ToqueCAN
 ### United States
 - [Isik's Tech](https://store.isiks.tech/products/toquecan) (Me)
+### European Union
+- [Lab4450 - Portugal](https://lab4450.com/product/toquecan-pi-by-xbst_/)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
