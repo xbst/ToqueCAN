@@ -19,14 +19,31 @@ Designed for 3D printers with many CAN devices, 24V power and small electronics 
 [![YouTube Video](https://img.youtube.com/vi/QP4bZ6_RnH0/0.jpg)](https://youtu.be/QP4bZ6_RnH0)
 
 ## Purchasing a ToqueCAN
-### United States
-- [Isik's Tech](https://store.isiks.tech/products/toquecan) (Me)
+### Buy From Me
+- Each PCB tested by me
+- All connectors needed are included (if applicable)
+- Supports the development of open-source projects like this
+- Ships worldwide
+
+#### United States
+- [Isik's Tech](https://store.isiks.tech/products/toquecan)
+
+### Resellers
+- Each PCB tested by me
+- All connectors needed are included (if applicable)
+- Supports the development of open-source projects like this
+#### United States
 - [Amazon - Prime Shipping](https://www.amazon.com/dp/B0D33F7GBZ?maas=maas_adg_4BCCA12678B30071A84EF6315FF9BF74_afap_abs&ref_=aa_maas&tag=maas)
 - [West3D](https://west3d.com/products/toquecan-pi-toque-with-2xcan-and-24v-5v-regulator?_pos=1&_psq=Toque&_ss=e&_v=1.0)
-### Canada
+#### Canada
 - [Amazon - Ships from the US](https://www.amazon.ca/dp/B0D33F7GBZ)
-### European Union
+#### European Union
 - [Lab4450 - Portugal](https://lab4450.com/product/toquecan-pi-by-xbst_/)
+
+### Other Trusted Vendors
+These vendors source their PCBs from other sources, but are trusted vendors on Voron and Voron-related communities.
+
+[TBD]
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
